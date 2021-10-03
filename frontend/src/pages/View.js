@@ -28,7 +28,7 @@ export default function View() {
         <ContentContainer>
             <Heading>View</Heading>
             {error ? <p>{error}</p> : <></>}
-            {data ? <p>{<Viewer data={data}/>}</p> : !error ? <p>Loading</p> : <></>}
+            {data ? <Viewer data={data}/> : !error ? <p>Loading</p> : <></>}
         </ContentContainer>
 
     )
