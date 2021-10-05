@@ -4,7 +4,6 @@ import styled from "styled-components";
 const LinkButton = styled(Link)`
     padding: ${({theme}) => theme.spacing.lg} ${({theme}) => theme.spacing.xl};
     border-radius: 5px;
-    font-size: .8em;
     text-decoration: none;
     display: block;
     width: fit-content;
