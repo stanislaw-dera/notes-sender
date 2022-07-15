@@ -1,10 +1,10 @@
-# Homework sender
+# Notes sender
 
 Send the notes to a friend who was absent from school.
 
-### [✨ Demo](https://send-the-homework.web.app)
+### [✨ Demo](https://send-the-homework-react.web.app)
 
-See also: [this app made in React.js](https://github.com/stanislawdera/notes-sender-react)
+See also: [this app made in Vue.js](https://github.com/stanislawdera/vue-homework-sender)
 
 ---
 
@@ -14,7 +14,7 @@ Built with:
   
 - Firebase storage 🔥
   
-- Vue.js 🌐
+- React.js 🌐
   
 
 ---
@@ -25,20 +25,16 @@ Built with:
 npm install
 ```
 
+**Note:** You need to create `.env` file with the Firebase config.
+
 ### Compiles and hot-reloads for development
 
 ```
-npm run serve
+npm run start
 ```
 
 ### Compiles and minifies for production
 
 ```
 npm run build
-```
-
-### Lints and fixes files
-
-```
-npm run lint
 ```
