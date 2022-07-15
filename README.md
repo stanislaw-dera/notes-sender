@@ -2,7 +2,7 @@
 
 Send the notes to a friend who was absent from school.
 
-### [✨ Demo](https://send-the-homework-react.web.app)
+### [✨ Demo](https://send-the-homework-react.firebaseapp.com)
 
 See also: [this app made in Vue.js](https://github.com/stanislawdera/vue-homework-sender)
 
